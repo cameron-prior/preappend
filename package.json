@@ -1,0 +1,16 @@
+{
+    "name": "preappend",
+    "version": "1.0.0",
+    "description": "a coworker said \"preappend the text\" instead of \"prepend\" and I thought it was kinda funny so I made this",
+    "main": "preappend.js",
+    "scripts": {
+        "test": "test.js"
+    },
+    "keywords": [
+        "js",
+        "preappend",
+        "dontactuallyusethis"
+    ],
+    "author": "Cameron Prior",
+    "license": "ISC"
+}
