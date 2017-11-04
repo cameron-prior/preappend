@@ -6,5 +6,5 @@
 module.exports = preappend;
 
 function preappend(pre, append) {
-    return pre + append;
+    return pre.concat(append);
 }
